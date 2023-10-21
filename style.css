@@ -1,0 +1,63 @@
+.whole{
+    background-color: 142850;
+}
+.col-lg-6{
+    color: 0C7B93;
+}
+.custom-color{
+    color: 00A8CC; 
+}
+.d-block{
+    border-radius: 2%; 
+}
+.button{
+    background-color: FF9EAA;
+}
+#navigation{
+    border-radius: 20%;
+}
+.education{
+    background-color: 00A8CC;
+}
+.para{
+    color: 0C7B93;
+    text-align: justify;
+}
+.txt{
+    float: right;
+}
+.icon-square{
+    background-color: 0C7B93;
+}
+.line{
+    border: 2px solid lightblue;
+    border-radius: 5px;
+  }
+  .custom-color_1{
+    color: 0C7B93;
+  }
+  .footer{
+    background-color: 00A8CC;
+    margin: 0;
+    padding: 0;
+  }
+  .pro1{
+    background-color : #f8d7da;
+    color: #5e181c;
+  }
+  .pro2{
+    background-color: #fff3cd;
+    color: #724d03;
+  }
+  .pro3{
+    background-color: #cff4fc;
+    color: #185360;
+  }
+  .edu{
+    background-color: #fff3cd;
+    color: #724d03;
+  }
+  .custom-color-foot{
+    color: 00A8CC; 
+    text-align: center;
+  }
